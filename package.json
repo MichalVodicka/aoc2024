@@ -4,7 +4,7 @@
   "description": "AdventOfCode",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "d1": "node ./src/day1/index.js"
   },
   "author": "",
   "license": "ISC"
